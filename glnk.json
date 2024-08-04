@@ -1,1 +1,4 @@
-{ "/home": "https://github.com/glnk-dev/glnk-g1" }
+{ 
+  "/home": "https://github.com/glnk-dev/glnk-g1",
+  "/s/p/cda": "https://ap-northeast-2.console.aws.amazon.com/ecs/v2/clusters/cdp_data_app_prod/services?region=ap-northeast-2" 
+}
